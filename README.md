@@ -21,8 +21,8 @@ Hi. This is Yeheum.
 I want to become a developer who want to work with everyone.
 
 ### Interest
-Front-end technologies such as Html, CSS, JavaScript, React, etc.
-Exercise, Taking photos, Make a song, Singing
-Reading, Travel
+- Front-end technologies such as Html, CSS, JavaScript, TypeScript, Redux, Mobx, React, etc.
+- Exercise, Taking photos, Make a song, Singing
+- Reading, Travel
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyheum)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyheum)](https://github.com/anuraghazra/github-readme-stats)
