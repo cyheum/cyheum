@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ### Yeheum Choi
 Hi. This is Yeheum.
-I want to become a developer everyone want to work with me.
+
+I want to be a developer that everyone wants to work with
 
 ### Interest
 - Front-end technologies such as Html, CSS, JavaScript, TypeScript, Redux, Mobx, React, etc.
